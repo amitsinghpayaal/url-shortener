@@ -24,8 +24,7 @@ Before you begin, ensure you have the following installed on your system:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/url-shortner-app.git
-cd url-shortner-app
+git clone https://github.com/amitsinghpayaal/url-shortener.git
 ```
 
 ### 2. Install PHP Dependencies
