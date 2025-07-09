@@ -1,3 +1,4 @@
+# Please Check Out master branch
 # URL Shortener Application
 
 A modern, feature-rich URL shortening application built with Laravel 10, Jetstream, and Livewire. This application provides secure URL shortening capabilities with role-based access control, company management, and user invitation system.
